@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🛡️ AI Threat Hunter
+<p align="center">
+  <img src="assets\Header.png"width="80%">
+</p>
 
 ### AI-Powered Threat Hunting Assistant for Logs, PCAP, EVTX, JSON, TXT, and APK Analysis
 
