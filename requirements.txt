@@ -1,0 +1,7 @@
+streamlit
+ollama
+chromadb
+sentence-transformers
+androguard
+scapy
+Evtx
